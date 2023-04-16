@@ -1,6 +1,6 @@
 # BMI_Calculator
 
-In this project, we are creating BMI Calculator in Python using Jupyter.
+In this project, we are creating BMI Calculator in Python using Jupyter Notebook IDE.
 
 BMI calculator is used to calculate your Body Mass Index (BMI).
 Body Mass Index, or BMI, is a measurement of body fat based on hheight and weight.
